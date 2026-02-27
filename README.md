@@ -8,3 +8,4 @@ The resume includes structured sections like Header, About Me, Skills, Experienc
 This project is ideal for beginners who want to practice HTML fundamentals and understand how to organize content properly in a webpage.
 
 
+![Screenshot 2026-02-28 000651](https://github.com/user-attachments/assets/e61982cb-edd7-4be2-b580-300a9286b043)
